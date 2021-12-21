@@ -1,0 +1,6 @@
+[submodule "assets/ver"]
+	path = assets/ver
+	url = https://github.com/admenmod/ver.git
+[submodule "assets/touches-controller"]
+	path = assets/touches-controller
+	url = https://github.com/admenmod/touches-controller.git
